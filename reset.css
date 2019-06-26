@@ -20,20 +20,18 @@ html, body {
 
 .flex-container {
   width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  /* height: 100%; */
+  /* height: 200px; */
 }
 
 .flex-container .flex-content:nth-child(odd) {
   background: #5FD07F;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .flex-container .flex-content:nth-child(even) {
   background: #39ACD1;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .cobalt {
